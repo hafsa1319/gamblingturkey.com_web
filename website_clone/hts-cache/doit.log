@@ -1,0 +1,8 @@
+https://gamblingturkey.webflow.io/ -O /home/ubuntu/clone/sites/gamblingturkey.com/website_clone -v -%! -c1 -%c1 -%F "" -%l "en, en, *"
+File generated automatically on Tue, 13 Jun 2023 15:28:37, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
